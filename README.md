@@ -46,8 +46,7 @@ text_list = [file.name for file in Path('hoge').glob('*.txt')]
 ## 環境構築
 
 初学者にはanacondaを推奨しています。\
-標準ライブラリの学習に焦点を当てているので必要なライブラリはありません。\
-環境構築が面倒な方は以下のサイトからブラウザ上で実行できます。
+環境構築が面倒な方は以下のサイトからブラウザでも実行できます。\
 https://paiza.io/ja/projects/new?language=python3
 
 ## 最後に
