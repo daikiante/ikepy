@@ -41,12 +41,14 @@ text_list = [file.name for file in Path('hoge').glob('*.txt')]
 * Python 3.6.9
 * Anaconda 4.10.3
 
-※Python3.5以上であれば大丈夫です。
+※Python3.6以上であれば大丈夫です。
 
 ## 環境構築
 
 初学者にはanacondaを推奨しています。\
-標準ライブラリの学習に焦点を当てているので必要なライブラリはありません。
+標準ライブラリの学習に焦点を当てているので必要なライブラリはありません。\
+環境構築が面倒な方は以下のサイトからブラウザ上で実行できます。
+https://paiza.io/ja/projects/new?language=python3
 
 ## 最後に
 素敵なPythonライフを！
