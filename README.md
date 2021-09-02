@@ -38,8 +38,8 @@ text_list = [file.name for file in Path('hoge').glob('*.txt')]
 
 ## バージョン
 
-* Python 3.5.2
-* Anaconda 1.0.2
+* Python 3.6.9
+* Anaconda 4.10.3
 
 ※Python3.5以上であれば大丈夫です。
 
